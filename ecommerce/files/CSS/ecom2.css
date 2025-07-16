@@ -1,0 +1,25 @@
+.primg>img{
+    width:100px ;
+}
+.addtocart>a{
+    text-decoration: none;
+    color:white;
+}
+.search{
+    width: 600px;
+    background-color: rgb(211, 207, 207);
+}
+.cart>img{
+    width: 30px;
+}
+
+.textcolor{
+    color: white;
+}
+.link>a{
+    text-decoration: none;
+    color: white;
+}
+.link>a:hover{
+    color: yellowgreen;
+}

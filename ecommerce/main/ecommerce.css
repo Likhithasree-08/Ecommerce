@@ -1,0 +1,29 @@
+
+.search{
+    width: 600px;
+    background-color: rgb(211, 207, 207);
+}
+.cart>img{
+    width: 30px;
+}
+.price{
+    text-decoration: none;
+    font-size:20px;
+    color: rgb(10, 47, 10);
+}
+.padding>img{
+    margin-top:70px;
+}
+.height{
+    height: 100px;
+}
+.textcolor{
+    color: white;
+}
+.link>a{
+    text-decoration: none;
+    color: white;
+}
+.link>a:hover{
+    color: yellowgreen;
+}
